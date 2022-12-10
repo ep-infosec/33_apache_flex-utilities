@@ -1,0 +1,17 @@
+------------------------------------------------
+Apache Flex Squiggly 1.1
+------------------------------------------------
+
+Squiggly 1.1 has the following changes from Squiggly 1.0:
+- Mavenized version of Squiggly
+- Added installer Ant file
+- Added en_US and en_GB dictionaries
+- Now works with both Halo and Spark components
+
+------------------------------------------------
+Apache Flex Squiggly 1.0
+------------------------------------------------
+
+Initial parity release for Adobe's Squiggly library.
+
+Note that the ANE version of Squiggly may be added in a future release.
